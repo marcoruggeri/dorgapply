@@ -1,0 +1,21 @@
+{
+  "name": "arbs-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "ethereum-input-data-decoder": "^0.3.1",
+    "ethers": "^5.0.23",
+    "express": "^4.17.1",
+    "log4js": "^6.3.0",
+    "node-fetch": "^2.6.1"
+  }
+}
